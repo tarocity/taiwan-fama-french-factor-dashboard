@@ -62,7 +62,7 @@ taiwan-fama-french-factor-dashboard/
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   └── gold/                           # Scripts for constructing Fama-French factors and portfolios 
 │
-├── scripts_py/                         # Python scripts for getting FinMind KPI data, preprocessing data and connecting to SQL Server, etc 
+├── scripts_py/                         # Python scripts for retrieving data from FinMind API and preprocessing datasets
 |
 ├── png/                                # png files for icons used in Tableau dashboard
 │
