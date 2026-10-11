@@ -1,4 +1,4 @@
-# Taiwan Fama-French Factor Dashboard
+# [Taiwan Fama-French Factor Dashboard](https://public.tableau.com/app/profile/yucheng.chou/viz/TaiwanFama-FrenchFactorDashboard/Dashboard-portfolio)
 
 Welcome to the **Taiwan Fama-French Factor Dashboard Project** repository! 📊    
 This project presents an end-to-end workflow for constructing Fama-French factors and developing a Tableau dashboard for the Taiwan stock market.
@@ -43,7 +43,7 @@ The diagram below illustrates how data flows through the Bronze, Silver, and Gol
 - **[Kenneth R. French Website](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_5_factors_2x3.html)**: Fama-French factor calculation methods.
 - **[draw.io](https://www.drawio.com/):** Create data architecture, data flows, and Tableau dashboard layout diagrams.
 - **[Photopea](https://www.photopea.com/l/zh_tw/)**: Change the colors of icons used in the dashboard.
-- **[Tableau Public]()**: Interactive dashboard for Taiwan Fama-French factors and portfolios.
+- **[Tableau Public](https://public.tableau.com/app/profile/yucheng.chou/viz/TaiwanFama-FrenchFactorDashboard/Dashboard-portfolio)**: Interactive dashboard for Taiwan Fama-French factors and portfolios.
 
 ---
 ## 📂 Repository Structure
