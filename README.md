@@ -40,7 +40,7 @@ The diagram below illustrates how data flows through the Bronze, Silver, and Gol
   - [FinMind](https://finmind.github.io/tutor/TaiwanMarket/DataList/): Market and financial data.
   - [Investing.com](https://hk.investing.com/rates-bonds/taiwan-10-year-bond-yield-historical-data): Taiwan 10-year government bond yield data.
 - **[Kenneth R. French Website](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_5_factors_2x3.html)**: Fama-French factor calculation methods.
-- **[draw.io](https://www.drawio.com/):** Create data architecture, data flows, and Tableau dashboard layout diagram.
+- **[draw.io](https://www.drawio.com/):** Create data architecture, data flows, and Tableau dashboard layout diagrams.
 - **[Photopea](https://www.photopea.com/l/zh_tw/)**: Change the colors of icons used in the dashboard.
 - **[Tableau Public]()**: Interactive dashboard for Taiwan Fama-French factors and portfolios.
 
@@ -62,8 +62,8 @@ taiwan-fama-french-factor-dashboard/
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   └── gold/                           # Scripts for constructing Fama-French factors and portfolios 
 │
-├── scripts_py/                         # Python scripts for getting FinMind KPI data, converting CSV encoding and connecting to SQL Server,etc 
-│
+├── scripts_py/                         # Python scripts for getting FinMind KPI data, preprocessing data and connecting to SQL Server, etc 
+|
 ├── png/                                # png files for icons used in Tableau dashboard
 │
 └── README.md                           # Project overview and instructions
