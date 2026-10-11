@@ -4,6 +4,7 @@ Welcome to the **Taiwan Fama-French Factor Dashboard Project** repository! 📊
 This project presents an end-to-end workflow for constructing Fama-French factors and developing a Tableau dashboard for the Taiwan stock market.
 The project integrates **Python**, **SQL Server**, and **Tableau** to build a structured data pipeline, construct factor-based portfolios, and create interactive visualizations.
 
+![dashboard_image](docs/dashboard_image.png)
 ---
 ## 📌 Project Overview
 
