@@ -34,7 +34,7 @@ The diagram below illustrates how data flows through the Bronze, Silver, and Gol
 
 - **Spyder**: IDE for writing Python scripts.
 - **SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases.
-- **JupyterLab**: Used to demonstrate the calculation process using Python and export it as an HTML file.
+- **[JupyterLab](https://tarocity.github.io/RMarkdown-JupyterLab_stuff/fama_portfolio_calc.html)**: Used to demonstrate the calculation process using Python and export it as an HTML file.
 - **Data Sources**
   - [MOPS](https://mops.twse.com.tw/mops/#/web/t51sb01): Company information data.
   - [FinMind](https://finmind.github.io/tutor/TaiwanMarket/DataList/): Market and financial data.
